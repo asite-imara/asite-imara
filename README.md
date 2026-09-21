@@ -63,6 +63,21 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asite-imara&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
+### 📊 Моя GitHub-статистика
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asite-imara&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asite-imara&theme=radical" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asite-imara&theme=radical" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asite-imara&theme=radical" alt="Most Commit Language" />
+</p>
+
 ---
 
 ### 📫 Давай работать вместе!
