@@ -70,7 +70,7 @@
 Я всегда открыт к обсуждению новых проектов, смелых идей и возможностей для коллаборации. 
 
 <p align="center">
-  <a href="https://t.me/[ТВОЙ_ТЕЛЕГРАМ]" target="_blank">
+  <a href="https://t.me/marketolog_i" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="mailto:[ТВОЯ_ПОЧТА]">
