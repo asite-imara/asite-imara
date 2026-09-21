@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<h1 align="center">👋 Привет, я Александр Шиляев / asite-amara!</h1>
+<h1 align="center">👋 Привет, я Aleksandr Shilyaev / asite-amara!</h1>
 
 <p align="center">
   <b>Digital-архитектор на стыке маркетинга, кода и нейросетей.</b><br>
