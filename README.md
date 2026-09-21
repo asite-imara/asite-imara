@@ -55,17 +55,6 @@
 ### 📊 Моя GitHub-статистика
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asite-imara&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asite-imara&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asite-imara&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-### 📊 Моя GitHub-статистика
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asite-imara&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
