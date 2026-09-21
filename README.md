@@ -55,12 +55,12 @@
 ### 📊 Моя GitHub-статистика
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[ТВОЙ_НИК]&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ТВОЙ_НИК]&layout=compact&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asite-amara&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asite-amara&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[ТВОЙ_НИК]&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asite-amara&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -82,7 +82,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[ТВОЙ_НИК]&color=0e75b6&style=for-the-badge&label=МОИ+ПРОСМОТРЫ+ПРОФИЛЯ" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=asite-amara&color=0e75b6&style=for-the-badge&label=МОИ+ПРОСМОТРЫ+ПРОФИЛЯ" alt="Profile views" />
 </p>
 
 <p align="center">
